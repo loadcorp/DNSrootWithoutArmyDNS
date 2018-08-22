@@ -1,4 +1,4 @@
-***( DELETED NASA GOVERNMENT SERVERS )***
+***( DELETED NASA GOVERNMENT SERVER )***
 
 ## List DNS root without Army DNS
 ******List of Root Servers without US Army DNS
